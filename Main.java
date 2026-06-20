@@ -10,7 +10,7 @@ public class Main{
         Student s=new Student();
         s.sayHello();
 
-        System.out.println("");
+        
 
     }
 }
