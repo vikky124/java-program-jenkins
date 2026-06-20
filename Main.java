@@ -8,7 +8,7 @@ public class Main{
         System.out.println("world");
         System.out.println("added new file");
         Student s=new Student();
-        s.sayHello();
+        s.sayWello();
 
         
 
